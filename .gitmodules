@@ -1,0 +1,15 @@
+[submodule "GatewayService"]
+	path = GatewayService
+	url = https://github.com/tangxuyao/GatewayService.git
+[submodule "CRMService"]
+	path = CRMService
+	url = https://github.com/tangxuyao/CRMService.git
+[submodule "MongoData"]
+	path = MongoData
+	url = https://github.com/tangxuyao/MongoData.git
+[submodule "GameService"]
+	path = GameService
+	url = https://github.com/tangxuyao/GameService.git
+[submodule "ActorHoldService"]
+	path = ActorHoldService
+	url = https://github.com/tangxuyao/ActorHoldService.git
