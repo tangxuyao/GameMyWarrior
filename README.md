@@ -17,3 +17,10 @@ go get -u github.com/sideshow/apns2
 ```commandline
 docker run --name gorush -p 8088:8088 appleboy/gorush
 ```
+
+
+## 本地配置系统
+https://github.com/spf13/viper <br>
+```commandline
+go get -u github.com/spf13/viper
+```

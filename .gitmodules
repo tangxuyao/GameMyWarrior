@@ -10,6 +10,6 @@
 [submodule "GameService"]
 	path = GameService
 	url = https://github.com/tangxuyao/GameService.git
-[submodule "ActorHoldService"]
-	path = ActorHoldService
-	url = https://github.com/tangxuyao/ActorHoldService.git
+[submodule "AsylumService"]
+	path = AsylumService
+	url = https://github.com/tangxuyao/AsylumService.git
