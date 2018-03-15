@@ -13,3 +13,6 @@
 [submodule "AsylumService"]
 	path = AsylumService
 	url = https://github.com/tangxuyao/AsylumService.git
+[submodule "ConsulMonitorService"]
+	path = ConsulMonitorService
+	url = https://github.com/tangxuyao/ConsulMonitorService.git

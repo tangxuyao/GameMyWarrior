@@ -16,3 +16,5 @@
 *.iml
 
 *.xml
+
+scripts/__pycache__/loadTester.cpython-36.pyc
