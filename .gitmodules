@@ -16,3 +16,6 @@
 [submodule "ConsulMonitorService"]
 	path = ConsulMonitorService
 	url = https://github.com/tangxuyao/ConsulMonitorService.git
+[submodule "Frameworks"]
+	path = Frameworks
+	url = https://github.com/tangxuyao/Frameworks.git
