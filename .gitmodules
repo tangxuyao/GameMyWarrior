@@ -19,3 +19,6 @@
 [submodule "Frameworks"]
 	path = Frameworks
 	url = https://github.com/tangxuyao/Frameworks.git
+[submodule "AdventureService"]
+	path = AdventureService
+	url = https://github.com/tangxuyao/AdventureService.git
